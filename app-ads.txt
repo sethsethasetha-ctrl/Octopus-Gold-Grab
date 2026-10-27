@@ -694,3 +694,4 @@ nativo.com, 6089, RESELLER, 59521ca7cc5e9fee
 netmarvel.com, 1011828, RESELLER, ca3509163a633862
 appads.in, 106246, RESELLER
 prado.co, 14260, RESELLER
+google.com, pub-5473734666843650, DIRECT, f08c47fec0942fa0
